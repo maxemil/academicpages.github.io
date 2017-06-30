@@ -9,3 +9,12 @@ location: "Uppsala, Sweden"
 ---
 
 15 ECTS course on next-generation sequencing, exploring microbial dark matter and basic bioinformatics.
+
+<!-- Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+====== -->
