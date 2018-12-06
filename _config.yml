@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ author:
   bio              : "PhD student in molecular evolution of protists and organelles @ettema_lab and @singek_itn"
   location         : "Uppsala/Sweden"
   employer         : "http://www.ettemalab.org/"
-  googlescholar    :
+  googlescholar    : https://scholar.google.se/citations?user=qFOG-IkAAAAJ&hl=en
   email            :
   uri              :
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            :
+  orcid            : https://orcid.org/0000-0002-4453-4173
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
